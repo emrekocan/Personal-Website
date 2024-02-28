@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(asansör.jpg);
+    background-size: cover;
+}
+
+.box{
+    width: 450px;
+    background: rgba(124, 72, 13, 1);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+
+.box img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.box img:hover{
+    transform: scale(0.9);
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 1px;
+
+}
+
+.box p{
+    text-align: center;
+}
+
+.box-container {
+    display: flex;
+}
+
+.box1{
+    width: 450px;
+    background: rgba(124, 72, 13, 1);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+
+.box1 img{
+    width: 200px;
+    height: 250px;
+    border-radius: 70%;
+    transition: 0.5s;
+    cursor: pointer;
+    
+}
+
+.box1 img:hover{
+    transform: scale(0.9);
+}
+
+.box1 h1{
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+
+.box1 h5{
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 1px;
+
+}
+
+.box1 p{
+    text-align: center;
+}
+
+.box-container {
+    display: flex;
+}
